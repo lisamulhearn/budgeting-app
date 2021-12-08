@@ -1,0 +1,16 @@
+.my-text {
+    -fx-fill: red ;
+}
+
+.bg {
+  /* The image used */
+  -fx-background-image: url("https://icbstexas.com/wp-content/uploads/split-color-background-light-gray.jpg");
+
+  /* Full height */
+  -fx-height: 100%;
+
+  /* Center and scale the image nicely */
+  -fx-background-position: center;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: cover;
+}
